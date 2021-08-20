@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fa Ainama Caldera</h1>
 <h3 align="center">Hello, Facalder is here. I'm currently learning Tailwind and also Swift fundamental</h3>
 
-- ⚡ Fun fact **I'm also have second account <a href="https://github.com/Fasterdes">Fasterdes</a> for my school project.**
+- ⚡ Fun fact **I'm also have second account <a href="https://github.com/Facalder">Facalder</a> for my personal project.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
