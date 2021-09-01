@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fa Ainama Caldera</h1>
-<h3 align="center">Hello, Facalder is here. I'm currently learning Tailwind and also Swift fundamental</h3>
+<h3 align="center">Hello, Facalder is here. I'm currently learning Tailwind , Javascript Intermediate </h3>
 
 - ⚡ Fun fact **I'm also have second account <a href="https://github.com/Facalder">Facalder</a> for my personal project.**
 
@@ -10,4 +10,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
